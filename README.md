@@ -1,0 +1,1 @@
+Simple example of using external compiler (like tcc) to make dynamic library, loading it and executing function from it.
